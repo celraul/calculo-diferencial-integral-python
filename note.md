@@ -1,10 +1,32 @@
-link para o material do professor.
-
+## link para o material do professor.
 https://phkonzen.github.io/notas/
 
 
+## install 
+```bash
 python -m pip install -U pip    
 python -m pip install -U matplotlib
+```
+
+## vs code
+
+https://stackoverflow.com/questions/43574995/visual-studio-code-pylint-unable-to-import-protorpc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
